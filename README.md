@@ -4,8 +4,6 @@
 
 - In my final year at [University of Liverpool](https://www.liverpool.ac.uk/)
 
-- 👯 Im currently working at [Risidio](https://risidio.com/)
-
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
 
