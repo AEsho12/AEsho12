@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Esho</h1>
-<h3 align="center">Software Development </h3>
+<h3 align="center">Software Developer </h3>
 
 - Graduated at the [University of Liverpool](https://www.liverpool.ac.uk/)
   
